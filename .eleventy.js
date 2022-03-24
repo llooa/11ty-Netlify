@@ -17,6 +17,7 @@ module.exports = eleventyConfig => {
 */
 
 eleventyConfig.addPassthroughCopy("src/assets");
+eleventyConfig.addPassthroughCopy("src/admin");
 eleventyConfig.markdownTemplateEngine = 'njk';
     return {
         dir: {
