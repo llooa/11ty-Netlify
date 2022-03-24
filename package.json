@@ -1,0 +1,16 @@
+{
+  "name": "11ty-netlify",
+  "version": "1.0.0",
+  "description": "deploy 11ty onto Netlify",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "LeeShin",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
