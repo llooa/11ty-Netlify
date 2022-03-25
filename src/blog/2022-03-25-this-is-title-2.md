@@ -3,6 +3,8 @@ title: This is title 2
 description: What description 2
 author: LeeShin
 date: 2022-03-22T03:32:14.749Z
+tags:
+  - post
 thumbnail: /assets/img/gallery-2.jpg
 imageAlt: placeholder
 ---
